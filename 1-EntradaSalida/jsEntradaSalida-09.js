@@ -16,3 +16,28 @@ function mostrarAumento()
 }
 //txtIdSueldo
 //txtIdResultado
+/* var importeSueldo;
+var aumento;
+var resultado;
+importeSueldo = txtIdSueldo.value;//1000.89
+importeSueldo = parseFloat (importeSueldo);
+
+
+forma 1 
+resultado = importeSueldo * 1.1;
+
+
+aumento = importeSueldo* (10/100);  mejor forma
+resultado = importeSueldo + aumento;  mejor forma
+txtIdResultado.value = resultado.toFixed (3); mejor forma
+ importeSueldo = parseFloat(importeSueldo)
+
+
+
+
+
+
+
+
+
+ */

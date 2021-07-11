@@ -15,12 +15,20 @@ function mostrar()
 
 aprendimos a
 
-Ingresar datos por ID
-
-inresar daos mediante prompt
 declarar una variable
-mostrar datos/ informacion mediante alert
+
+Entradas 
+   Ingresar datos por ID
+   inresar daos mediante prompt
+
+Salidas
+   mostrar datos/
+   informacion mediante alert
+   document.write (es en documento html)/
+   console.log() (se muestra en la consola)/alert (se muestra por ventana emergente) /
+   id.value o document.getElementById  4formas de mostrar..
+
+Procesos
 
 
-document.write (es en documento html)/console.log() (se muestra en la consola)/alert (se muestra por ventana emergente) / id  4formas de mostrar..
 */
